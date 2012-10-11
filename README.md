@@ -1,2 +1,2 @@
-guides.rubyonrails.org
+guides.rubyonrails.org 练习
 ======================
